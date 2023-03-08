@@ -1,0 +1,15 @@
+C:\Users\DECG\desktop\LinqTutorial\bin\Debug\net7.0\LinqTutorial.exe
+C:\Users\DECG\desktop\LinqTutorial\bin\Debug\net7.0\LinqTutorial.deps.json
+C:\Users\DECG\desktop\LinqTutorial\bin\Debug\net7.0\LinqTutorial.runtimeconfig.json
+C:\Users\DECG\desktop\LinqTutorial\bin\Debug\net7.0\LinqTutorial.dll
+C:\Users\DECG\desktop\LinqTutorial\bin\Debug\net7.0\LinqTutorial.pdb
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.csproj.AssemblyReference.cache
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.AssemblyInfoInputs.cache
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.AssemblyInfo.cs
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.csproj.CoreCompileInputs.cache
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.dll
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\refint\LinqTutorial.dll
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.pdb
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\LinqTutorial.genruntimeconfig.cache
+C:\Users\DECG\desktop\LinqTutorial\obj\Debug\net7.0\ref\LinqTutorial.dll
