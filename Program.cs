@@ -22,7 +22,18 @@ public class Program
 		foreach(Student std in edades){			
 			Console.WriteLine(std.Nombre);
 		}
-        //
+        //Uso de OrderBy
+        System.Console.WriteLine("=====================");
+        var orderByResult = from s in studentList orderby s.Nombre select s;
+		Console.WriteLine("Estudiante ordenado");
+		foreach(Student estudadiante in orderByResult){			
+			Console.WriteLine(estudadiante.Nombre);
+		}
+        //Uso de Count
+        var total = studentList.Count();
+        var AdultoEstudiante = studentList.Count(s => s.Edad >= 18);
+
+        Console.WriteLine("Total de estudiante: "+ total + "Total de adulto: "+ AdultoEstudiante);
 
 
 	}
